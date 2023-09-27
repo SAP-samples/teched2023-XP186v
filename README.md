@@ -8,11 +8,15 @@ This repository contains the material for the SAP TechEd 2022 session called Ses
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to learn how to take first steps on SAP Business Technology Platform (SAP BTP) to realize your selected use case. Here is your opportunity to understand the business and technical offering of SAP BTP and how to take advantage of its full potential. See how the SAP Discovery Center site supports you in effectively working with SAP BTP and leveraging its services in an efficient way, by showing you all the relevant technical information to generate real business value.
+
+![image](https://github.com/SAP-samples/teched2023-XP186v/assets/144680945/643bfb09-b4ed-493d-a10b-689e320124ec)
+
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are:
+- internet access
 
 ## Exercises
 
