@@ -27,10 +27,15 @@ Go to https://discovery-center.cloud.sap/ and open the “Mission Catalog”.
 Search for the mission “Getting Started with Discovery Center Missions”. Open it and start the mission. 
 You will need to log on to start it. 
 If you don’t have a user go to https://www.sap.com/ and create your user.
-![image](https://github.com/SAP-samples/teched2023-XP186v/assets/144680945/419b4cbc-f610-4cb9-a5ca-d3add9251103)
+![image](https://github.com/SAP-samples/teched2023-XP186v/assets/144680945/5fe7fa11-abac-4c85-9ff9-29e32a29b0ce)
 
 After you have started your mission got to “Project Board” open the first, i.e. top left card and follow the instructions. 
 
+Once you have completed that card mark it as complete by pressing “Mark As Complete”:
+![image](https://github.com/SAP-samples/teched2023-XP186v/assets/144680945/b115bfd5-333b-40ba-85d4-b85503b366e6)
+ 
+and follow the instructions on the next card until you have completed all cards.
+Congratulations – you have now completed your first mission.
 
 
 
