@@ -17,6 +17,25 @@ The requirements to follow the exercises in this repository are:
 
 ## Exercises
 
+### First steps
+Open your browser and go to https://discovery-center.cloud.sap/. 
+Have a first look around. Find out what missions and services are.
+
+
+### Exercise 1 - Embark on your first mission
+Go to https://discovery-center.cloud.sap/ and open the “Mission Catalog”. 
+Search for the mission “Getting Started with Discovery Center Missions”. Open it and start the mission. 
+You will need to log on to start it. 
+If you don’t have a user go to https://www.sap.com/ and create your user.
+![image](https://github.com/SAP-samples/teched2023-XP186v/assets/144680945/419b4cbc-f610-4cb9-a5ca-d3add9251103)
+
+After you have started your mission got to “Project Board” open the first, i.e. top left card and follow the instructions. 
+
+
+
+
+
+
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
