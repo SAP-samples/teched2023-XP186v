@@ -24,7 +24,7 @@ Have a first look around. Find out what missions and services are.
 
 ### Exercise 1 - Embark on your first mission
 Go to https://discovery-center.cloud.sap/ and open the “Mission Catalog”. 
-Search for the mission “Getting Started with Discovery Center Missions”. Open it and start the mission. 
+Search for the mission **Getting Started with Discovery Center Missions**. Open it and start the mission. 
 You will need to log on to start it. 
 If you don’t have a user go to https://www.sap.com/ and create your user.
 ![image](https://github.com/SAP-samples/teched2023-XP186v/assets/144680945/5fe7fa11-abac-4c85-9ff9-29e32a29b0ce)
@@ -44,7 +44,7 @@ Now it is time to prepare SAP Business Technology Platform and use it.
 
 Again go to https://discovery-center.cloud.sap/ and open the “Mission Catalog”. 
 
-Search for the mission “Getting Started with SAP BTP Enterprise Account”. Open and start the mission. 
+Search for the mission **Getting Started with SAP BTP Enterprise Account**. Open and start the mission. 
 Again, go through the cards of the project board ad follow the instructions until you have completed the mission. 
 
 
