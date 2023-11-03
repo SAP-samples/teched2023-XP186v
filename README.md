@@ -27,12 +27,12 @@ Go to https://discovery-center.cloud.sap/ and open the “Mission Catalog”.
 Search for the mission **"Getting Started with Discovery Center Missions"**. Open it and start the mission. 
 You will need to log on to start it. 
 If you don’t have a user go to https://www.sap.com/ and create your user.
-![image](https://github.com/SAP-samples/teched2023-XP186v/assets/144680945/5fe7fa11-abac-4c85-9ff9-29e32a29b0ce)
+![image](Picture1.png)
 
 After you have started your mission got to “Project Board” open the first, i.e. top left card and follow the instructions. 
 
 Once you have completed that card mark it as complete by pressing “Mark As Complete”:
-![image](https://github.com/SAP-samples/teched2023-XP186v/assets/144680945/b115bfd5-333b-40ba-85d4-b85503b366e6)
+![image](Picture2.png)
  
 and follow the instructions on the next card until you have completed all cards.
 Congratulations – you have now completed your first mission.
@@ -58,10 +58,10 @@ b)	technology driven.
 Please explore both ways by 
 a)	browse the Mission Catalog and try the various filter and search options to find your next mission
 b)	browse the Service Catalog to explore the technical services SAP BTP offers. Try the various filter and search options to find one or more services. Check the “Related Missions” to find your next mission.
-![image](https://github.com/SAP-samples/teched2023-XP186v/assets/144680945/e8dec095-646d-482a-bbe9-f12ffd28998a)
+![image](Picture3.png)
 
 Hint: an interesting category four you could be: “Try for free” in the mission catalog:
-![image](https://github.com/SAP-samples/teched2023-XP186v/assets/144680945/df96bdf0-dcd1-4ec1-b505-a02bfb577c4a)
+![image](Picture4.png)
 These missions can be run without any extra costs as they require only free tier or trial services. 
 
 
